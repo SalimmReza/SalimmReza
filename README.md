@@ -1,5 +1,8 @@
 
+
 ![Profile views](https://gpvc.arturio.dev/SalimmReza)  
+
+
 
 ![I am GitHub Readme Generator's creator](https://thumbs.dreamstime.com/b/binary-code-computer-background-artificial-intelligence-digital-eye-abstract-technology-background-java-coding-binary-code-180725720.jpg)
 
@@ -9,6 +12,8 @@
 
 
 <h1 align="center">My Skills</h1>  
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+
 
 
 
