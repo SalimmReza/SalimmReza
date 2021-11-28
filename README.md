@@ -12,7 +12,11 @@
 
 
 <h1 align="center">My Skills</h1>  
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ECF0F1?style=for-the-badge&logo=java&logoColor=blue" />
+
+
+
 
 
 
