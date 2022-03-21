@@ -6,7 +6,7 @@
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalimmReza&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) --->
 
-<h1 align="center">My Skills</h1> 
+<h1 align="center">Connect With Me</h1> 
 
 <h1 align="center">My Skills</h1>  
 
