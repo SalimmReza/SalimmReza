@@ -6,8 +6,10 @@
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalimmReza&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) --->
 
+
+
 <h1 align="center">Connect With Me</h1> 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <img src=""/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
 
 
 <h1 align="center">My Skills</h1>  
