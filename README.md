@@ -2,7 +2,13 @@
 
 ![Profile views](https://gpvc.arturio.dev/SalimmReza)  
 
-<img src="https://thumbs.dreamstime.com/b/binary-code-computer-background-artificial-intelligence-digital-eye-abstract-technology-background-java-coding-binary-code-180725720.jpg" width="2000" height="300" />
+<h3 align="center">
+  Hello! I am Salim
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+
+<!--- <img src="https://thumbs.dreamstime.com/b/binary-code-computer-background-artificial-intelligence-digital-eye-abstract-technology-background-java-coding-binary-code-180725720.jpg" width="2000" height="300" /> --->
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalimmReza&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) --->
 
