@@ -16,7 +16,9 @@
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalimmReza&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) --->
 
 
-
+<div align="center">
+  <a href="https://www.facebook.com/profile.php?id=100004142567933"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Forks Badge"/></a>
+</div>
 
 ----------------------------------------------[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://img.shields.io/badge/Gmail-salimnuaa%40gmail.com-informational) 
 [![Wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white")](https://img.shields.io/badge/Wechat-salimrezaaa-informational) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004142567933) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salim-reza-2a0648191/)---------------------------------------------
