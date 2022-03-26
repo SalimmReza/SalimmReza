@@ -19,7 +19,7 @@
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://img.shields.io/badge/Gmail-salimnuaa%40gmail.com-informational) 
-<img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"/> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>	
+[![Gmail](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white")](https://img.shields.io/badge/Wechat-salimrezaaa-informational) <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>	
 
 
 <h1 align="center">My Skills</h1>  
