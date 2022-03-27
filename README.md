@@ -11,15 +11,6 @@
 </p>
 <!-- ----------done-------------- -->
 
-
-
-
-<!--- <img src="https://thumbs.dreamstime.com/b/binary-code-computer-background-artificial-intelligence-digital-eye-abstract-technology-background-java-coding-binary-code-180725720.jpg" width="2000" height="300" /> --->
-
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalimmReza&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) --->
-
-
-
 <div align="center">
    <a href="https://img.shields.io/badge/Gmail-salimnuaa%40gmail.com-informational"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
    <a href="https://img.shields.io/badge/Wechat-salimrezaaa-informational"><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="Wechat"/></a>
@@ -27,6 +18,7 @@
   <a href="https://www.linkedin.com/in/salim-reza-2a0648191/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linked In"/></a>
 </div>
 
+<!-- ------------------done--------------- -->
 
 
 
