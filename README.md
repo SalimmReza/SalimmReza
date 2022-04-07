@@ -15,7 +15,7 @@
    <a href="https://img.shields.io/badge/Gmail-salimnuaa%40gmail.com-informational"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="28" alt="Gmail"/></a>
    <a href="https://img.shields.io/badge/Wechat-salimrezaaa-informational"><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" width="90" height="28"  alt="Wechat"/></a>
    <a href="https://www.facebook.com/profile.php?id=100004142567933"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.linkedin.com/in/salim-reza-2a0648191/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="28"  alt="Linked In"/></a>
+  <a href="https://www.linkedin.com/in/salim-reza-2a0648191/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="28"  alt="Linked In"/></a>
 </div>
 
 <!-- ------------------done--------------- -->
