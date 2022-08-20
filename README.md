@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=An%20Android%20And%20Web%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=fff800&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=An%20Android%20And%20Web%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=FA0502&vCenter=true&size=22"></a>
 </p>
 <!-- ----------done-------------- -->
 
