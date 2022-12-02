@@ -26,7 +26,7 @@
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ECF0F1?style=for-the-badge&logo=java&logoColor=blue" />  <img src="https://img.shields.io/badge/firebase-3498DB?style=for-the-badge&logo=firebase&logoColor=F39C12" /> <img src="https://img.shields.io/badge/Kotlin-000000?&style=for-the-badge&logo=kotlin&logoColor=white" />  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/room-%23FF6600.svg?&style=for-the-badge&logo=rColor=white" />   
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalimmReza&layout=compact)](https://github.com/SalimmReza/github-readme-stats)
 
 
 
