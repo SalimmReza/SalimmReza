@@ -1,11 +1,6 @@
 <!-- <img src=""/> -->
 
-<!-- ------------------Trophy--------------- -->
 
-(https://github-profile-trophy.vercel.app/?username=SalimmReza)](https://github.com/SalimmReza/github-profile-trophy)
-<img src="https://github-profile-trophy.vercel.app/?username=SalimmReza" width='200'/>
-
-<!-- ------------------Trophy--------------- -->
 
 
  
