@@ -10,7 +10,7 @@
 
 <!-- ---------------------------- -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=An%20Android%20And%20A%20Web%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=FA0502&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Web%20And%20An%20Android%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=FA0502&vCenter=true&size=22"></a>
 </p>
 <!-- ----------done-------------- -->
 
