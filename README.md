@@ -1,4 +1,13 @@
 <!-- <img src=""/> -->
+
+<!-- ------------------Trophy--------------- -->
+
+(https://github-profile-trophy.vercel.app/?username=SalimmReza)](https://github.com/SalimmReza/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=SalimmReza" width='200'/>
+
+<!-- ------------------Trophy--------------- -->
+
+
  
  ![Profile views](https://gpvc.arturio.dev/SalimmReza)  
  <img src="https://user-images.githubusercontent.com/91980956/205349162-70d34b7b-9a2d-4054-8e3d-0b5947a419bb.png"/> 
@@ -40,7 +49,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalimmReza&layout=compact)](https://github.com/SalimmReza/github-readme-stats)
 
 <!-- ------------------Most used language--------------- -->
-
 
 
 
