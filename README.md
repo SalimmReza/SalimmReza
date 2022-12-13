@@ -2,7 +2,6 @@
 
 
 
-
  
  ![Profile views](https://gpvc.arturio.dev/SalimmReza)  
  <img src="https://user-images.githubusercontent.com/91980956/205349162-70d34b7b-9a2d-4054-8e3d-0b5947a419bb.png"/> 
@@ -45,7 +44,10 @@
 
 <!-- ------------------Most used language--------------- -->
 
+<!-- ---------------------stats----------------------- -->
+![Salim Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalimmReza&show_icons=true&theme=radical)
 
+<!-- ---------------------stats----------------------- -->
 
 
 
