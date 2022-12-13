@@ -18,7 +18,7 @@
 </p>
 <!-- ----------done-------------- -->
 
-#### I'm currently honing my expertise in MERN Stack Development. I completed five exceptional projects using front-end technologies, and I worked on three projects using MERN Stack technologies. I've also worked on Android development with java and kotlin in the past years. I've learnt a lot about time management and leadership during my time in University. Each semester, I oversaw a team for my academic assignments, and I was generally successful. I don't have a qualification for that, but I can still demonstrate my abilities.
+#### Currently honing my expertise in MERN Stack Development. I completed five exceptional projects using front-end technologies, and I worked on three projects using MERN Stack technologies. I've also worked on Android development with java and kotlin in the past years. I've learnt a lot about time management and leadership during my time in University. Each semester, I oversaw a team for my academic assignments, and I was generally successful. I don't have a qualification for that, but I can still demonstrate my abilities.
 
 <h2 align='center'> Connect with me on</h2>
 
